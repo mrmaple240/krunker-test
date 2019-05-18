@@ -1,0 +1,4 @@
+#aMerger>#aContainer,#streamContainer,.headerBarRight.headerBar #menuServerInfoContainer~*{display:none}
+#gameUI #instructionHolder{background-color:unset;}
+#customizeButton:after{content:'';display:block;position: absolute;width:320px;height:430px;left:-10px;bottom:-10px;}
+#menuWindow{left:50%;bottom:unset;top:184px;max-height:calc(100% - 286px);}
